@@ -8,9 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/avishka_24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="avishka_24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avishka garg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="avishka garg" height="30" width="40" /></a>
-<a href="https://instagram.com/avishka._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="avishka._" height="30" width="40" /></a>
+<a href="https://twitter.com/avishka_24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="avishka_24" height="30" width="40" background-color="white" /></a>
+<a href="https://linkedin.com/in/avishka24/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="avishka garg" height="30" width="40" background-color="white" /></a>
+<a href="https://instagram.com/avishkaa._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="avishkaa._" height="30" width="40" background-color="white" /></a>
 </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=avishka24&show_icons=true&include_all_commits=true&theme=dracula" alt="Avishka's github stats" />
 
