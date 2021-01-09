@@ -1,7 +1,6 @@
 
-<a href="https://avishka24.github.io/"><img src="https://avishka24.gitlab.io/hero/hero.xd" width="100%"></a>
+<a href="https://avishka24.github.io/"><img src="https://avishka24.gitlab.io/hero.xd" width="100%"></a>
 
-- 🌱 I’m currently learning **reactjs**
 - 🎓 Pursuing B.Tech in Computer Science and Engineering
 - 👨‍💻 Do visit my portfolio [https://avishka24.github.io/](https://avishka24.github.io/)
 - 💬 Ask me about **programming related stuff**
