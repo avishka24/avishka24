@@ -1,16 +1,25 @@
-
-<a href="https://avishka24.github.io/"><img src="https://raw.githubusercontent.com/avishka24/avishka24/master/avishka.png" width="100%"></a>
-
-- 🎓 Pursuing B.Tech in Computer Science and Engineering
-- 👨‍💻 Do visit my portfolio [https://avishka24.github.io/](https://avishka24.github.io/)
-- 💬 Ask me about **programming related stuff**
-- 🎉 Let's connect on [LinkedIn](https://www.linkedin.com/in/avishka24/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/avishka_24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="avishka_24" height="30" width="40" background-color="white" /></a>
-<a href="https://linkedin.com/in/avishka24/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="avishka garg" height="30" width="40" background-color="white" /></a>
-<a href="https://instagram.com/avishkaa._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="avishkaa._" height="30" width="40" background-color="white" /></a>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+<p style="font-size:2.5em;font-family: 'Poppins', sans-serif;" >Hey, I am Avishka</p>
+<hr style="border-color:white;" />
+<a target="_blank" href="mailto:gargavishka@gmail.com" target="_blank">
+<img style="padding:10px 10px 10px 0px;" height="40em" alt="Email" src="./Email.png" />
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/avishka24/" target="_blank">
+<img style="padding:10px;" height="40em" alt="LinkedIn" src="./Linkedin.png" />
+</a>
+<a target="_blank" href="https://twitter.com/Avishka_24" target="_blank">
+<img style="padding:10px;" height="40em" alt="Twitter" src="./Twitter.png" />
+</a>
+<div style="padding: 20px 0px;"><img src="./bg.png" alt="Avishka's Github Banner"></div>
+<p style="color:white;font-weight:500;font-family: 'Poppins', sans-serif;">
+   I am a Web Developer and interested in front end development and UI Designing. Checkout my portfolio to know more about me <a href="https://avishka24.github.io/"> Here ></a>
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=avishka24&show_icons=true&include_all_commits=true&theme=dracula" alt="Avishka's github stats" />
-
+<table width="100%">
+  <tr>
+    <td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=avishka24&show_icons=true&hide_border=true&theme=dracula" /> </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka24&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/> </td>
+  </tr>
+ <table>
+  
