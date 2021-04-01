@@ -13,7 +13,7 @@
 </a>
 <div style="padding: 20px 0px;"><img src="./avishka.png" alt="Avishka's Github Banner"></div>
 <p style="color:white;font-weight:500;font-family: 'Poppins', sans-serif;">
-   I am a Web Developer and interested in front end development and UI Designing. Checkout my portfolio to know more about me <a href="https://avishka24.github.io/"> Here ></a>
+   I am a Web Developer and interested in front end development and UI Designing. Checkout my portfolio to know more about me <a href="https://avishka.live"> Here ></a>
 </p>
 <table width="100%">
   <tr>
