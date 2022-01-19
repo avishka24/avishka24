@@ -11,7 +11,7 @@
 <a target="_blank" href="https://twitter.com/Avishka_24" target="_blank">
 <img style="padding:10px;" height="40em" alt="Twitter" src="./Twitter.png" />
 </a>
-<div style="padding: 20px 0px;"><img src="./group627.png" alt="Avishka's Github Banner"></div>
+<div style="padding: 20px 0px;"><img src="./avishka.png" alt="Avishka's Github Banner"></div>
 <p style="color:white;font-weight:500;font-family: 'Poppins', sans-serif;">
    I am a Web Developer and interested in front end development and UI Designing. Checkout my portfolio to know more about me <a href="https://avishka24.github.io/"> Here ></a>
 </p>
