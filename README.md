@@ -13,7 +13,8 @@
 </a>
 <div style="padding: 20px 0px;"><img src="./avishka.png" alt="Avishka's Github Banner"></div>
 <p style="color:white;font-weight:500;font-family: 'Poppins', sans-serif;">
-   I am a Web Developer and interested in front end development and UI Designing. Checkout my portfolio to know more about me <a href="https://avishka24.github.io/"> Here ></a>
+   I'm a passionate full-stack developer who thrives on crafting pixel-perfect web designs while also diving into the intricacies of backend development. My coding obsession drives me to create exceptional digital experiences.
+I serve as a core web developer at Google Developer Student Clubs . Feel free to explore my portfolio for a deeper insight into my work and skills. <a href="https://avishka24.github.io/"> Here ></a>
 </p>
 <table width="100%">
   <tr>
